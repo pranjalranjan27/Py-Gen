@@ -1,4 +1,4 @@
-﻿# PyGen — Password Generator (Tkinter)
+﻿# PyGen — Password Generator
 
 A simple password generator and strength analyzer built using **pure Python and Tkinter**.
 
@@ -14,4 +14,4 @@ A simple password generator and strength analyzer built using **pure Python and 
 - Save password (only after analysis)
 
 ## Project Author
-Pranjal Ranjan — B.Tech 1st Year (AI)
+Pranjal Ranjan — B.Tech 1st Year (CSE)
