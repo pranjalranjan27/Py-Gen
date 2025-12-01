@@ -1,4 +1,6 @@
-﻿# PyGen - A simple Email & Password generator and strength analyzer tool built using **pure Python and Tkinter**.
+﻿# PyGen 
+
+A simple Email & Password generator and strength analyzer tool built using **pure Python and Tkinter**.
 
 ## Features
 - Generate randomized or custom emails & secure passwords
