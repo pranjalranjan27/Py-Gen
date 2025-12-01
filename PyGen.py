@@ -309,7 +309,7 @@ class App(tk.Tk):
 
         style_row = ttk.Frame(style_frame)
         style_row.pack(fill="x", pady=2)
-        ttk.Radiobutton(style_row, text="Random String", variable=self.var_email_style, 
+        ttk.Radiobutton(style_row, text="Random", variable=self.var_email_style, 
                         value="random", command=self._on_style_change).pack(side="left", padx=10)
         ttk.Radiobutton(style_row, text="Name-Based", variable=self.var_email_style, 
                         value="name", command=self._on_style_change).pack(side="left", padx=10)
