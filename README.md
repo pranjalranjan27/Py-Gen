@@ -11,8 +11,8 @@ A simple Email & Password generator and strength analyzer tool built using **pur
 - Save them in separate files
 
 ## Project Author
-Pranjal Ranjan — B.Tech 1st Year (CSE)
-Samar Kumar
-Aman Raj
-Naitik Nigotiya
+Pranjal Ranjan — B.Tech 1st Year (CSE) </br>
+Samar Kumar </br>
+Aman Raj </br>
+Naitik Nigotiya </br>
 Arnav Pankaj Jawanjal
