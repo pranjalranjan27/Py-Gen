@@ -34,7 +34,7 @@ LAST_NAMES = [
     "jha", "pathak", "thakur", "anand", "taylor", "kohli",
     "chawla", "luthra", "khan", "lee", "chauhan", "suryavanshi", "kapoor",
     "rathore", "lewis", "harrington", "wheeler", "byers", "allen", "king",
-    "wright", "scott", "torres", "nguyen", "hill", "flores", "green"
+    "wright", "scott", "solanki", "shukla", "hill", "flores", "green"
 ]
 
 
