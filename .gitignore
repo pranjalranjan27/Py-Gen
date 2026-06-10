@@ -1,10 +1,14 @@
-﻿__pycache__/
+__pycache__/
 *.pyc
 *.pyo
 *.log
 *.tmp
 venv/
 .env
-passwords.txt
 .DS_Store
+
+# Generated output files
+data/passwords.txt
+data/emails.txt
+passwords.txt
 emails.txt

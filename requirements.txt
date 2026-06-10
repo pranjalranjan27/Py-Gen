@@ -1,0 +1,9 @@
+# requirements.txt — PyGen Dependencies
+#
+# PyGen uses only the Python standard library.
+# No external packages are required.
+#
+# Tkinter ships with most Python installations.
+# If missing on Linux, install via your package manager:
+#   sudo apt install python3-tk        (Debian/Ubuntu)
+#   sudo dnf install python3-tkinter   (Fedora)
